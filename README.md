@@ -6,7 +6,7 @@
 
 ## version base ~
 
-Tested as (14.aug.2026): (ubuntu-server-LTS-24.0.04)[https://ubuntu.com/download/server] on VMWARE-openrc
+Tested as (14.aug.2026): [ubuntu-server-LTS-24.0.04](https://ubuntu.com/download/server) on VMWARE-openrc
 - install script: curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-install.sh
 
 **Hardware assignment per VM:**
