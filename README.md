@@ -14,6 +14,10 @@ Tested as (14.aug.2026): [ubuntu-server-LTS-24.0.04](https://ubuntu.com/download
   - 40GB SSD NvmE disk space, virtual partition
 ## Repository
 Public viewing of setup, methods and automation related to the described SIEM.
-- Credential logging for ease of access
 - Log clear automation
 - Install options & status of personal VM backup
+
+## Template availability status ~
+As of 26.Aug.2026, this project has:
+- All templates backed up (siemBuntu, pentesting_vm/basic_pentesting)
+- Simulation environment build completed, including networking, TCP services and operations testing
