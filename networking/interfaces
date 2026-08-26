@@ -1,0 +1,7 @@
+# Since this config is meant for legacy ubuntu (16.04), I preffered to use the interface instead of CLI; Here are the settings:
+
+- Method: manual # Static IP; Disable DHCP
+- Address: 172.16.227.131
+- Netmask: 255.255.255/24
+- Gateway: 172.16.227.2
+- DNS servers: 8.8.8.8
