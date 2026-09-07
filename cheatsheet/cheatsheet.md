@@ -13,6 +13,7 @@
 - Includes logs and config
   - Agent-side config:
    1. /var/ossec/etc/ossec.conf = <span style='text-color: blue'>Configure agent</span>
+   2. /var/ossec/bin/agent-auth -m >MANAGER_IP< <span style='text-color: blue'>Link agent to manager</span>
 
   - Logs:
    1. /var/ossec/logs
